@@ -1,28 +1,19 @@
 all: html pdf docx rtf
 
-pdf: resume.md
+%.pdf: %.md
 	pandoc --standalone --template style_chmduquesne.tex \
 	--from markdown --to context \
-	-V papersize=A4 \
-	-o resume.tex resume.md; \
-	context resume.tex
+	-V papersize=letter \
+	-o $(<:.md=.tex) $<; \
+	context $(<:.md=.tex)
 
-html: style_chmduquesne.css resume.md
+%.html: %.md style_chmduquesne.css
 	pandoc --standalone -H style_chmduquesne.css \
         --from markdown --to html \
-        -o resume.html resume.md
+        -o $@ $<
 
-docx: resume.md
-	pandoc -s -S resume.md -o resume.docx
+%.docx: %.md
+	pandoc -s -S $< -o $@
 
-rtf: resume.md
-	pandoc -s -S resume.md -o resume.rtf
-
-clean:
-	rm resume.html
-	rm resume.tex
-	rm resume.tuc
-	rm resume.log
-	rm resume.pdf
-	rm resume.docx
-	rm resume.rtf
+%.rtf: %.md
+	pandoc -s -S $< -o $@
