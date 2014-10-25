@@ -24,11 +24,11 @@ h1 {
     text-align:center;
     margin-bottom:15px;
 }
-h1:hover {
+/*h1:hover {
     background-color: #757575;
     color: #FFFFFF;
     text-shadow: 1px 1px 1px #333;
-}
+}*/
 
 /* Titles of categories */
 h2 {
@@ -45,11 +45,11 @@ h2:before {
     /* This is called "rulecolor" in the ConTeXt stylesheet. */
     background-color: #9CB770;
 }
-h2:hover {
+/*h2:hover {
     background-color: #397249;
     color: #FFFFFF;
     text-shadow: 1px 1px 1px #333;
-}
+}*/
 
 /* Definitions */
 dt {
@@ -74,14 +74,23 @@ blockquote {
 /* Links */
 a {
     text-decoration: none;
-    color: #397249;
+    /*color: #397249;*/
+    color: black
 }
 a:hover, a:active {
-    background-color: #397249;
-    color: #FFFFFF;
+/*    background-color: #397249;*/
+    /*color: #FFFFFF;*/
+    color: #397249;
     text-decoration: none;
-    text-shadow: 1px 1px 1px #333;
+/*    text-shadow: 1px 1px 1px #333;*/
 }
+a:after {
+    content: url('link.png');
+    display: inline-block;
+    width: 14px;
+    /*margin-right:1%;
+    height: 10px;
+    background-color: #9CB770;*/
 
 /* Horizontal separators */
 hr {
