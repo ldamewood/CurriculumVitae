@@ -1,5 +1,3 @@
-all: html pdf docx rtf
-
 %.pdf: %.md
 	pandoc --standalone --template style_chmduquesne.tex \
 	--from markdown --to context \
@@ -7,8 +5,8 @@ all: html pdf docx rtf
 	-o $(<:.md=.tex) $<; \
 	context $(<:.md=.tex)
 
-%.html: %.md style_chmduquesne.css
-	pandoc --standalone -H style_chmduquesne.css \
+%.html: %.md
+	pandoc --standalone \
         --from markdown --to html \
         -o $@ $<
 

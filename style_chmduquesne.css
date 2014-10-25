@@ -1,4 +1,3 @@
-<style type="text/css">
 /*
  * Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
  *
@@ -8,7 +7,28 @@
  * https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
  */
 
-/* Whole document */
+.title {
+    font-size: 30pt;
+    color: #757575;
+    text-align:center;
+}
+
+.author {
+    font-size: 20pt;
+    text-align:center;
+    color: #757575;
+}
+
+.author:before {
+    margin-right: 0px;
+    width: 0px;
+}
+
+.date {
+    font-size: 12pt;
+    text-align: center;
+}
+
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     width: 800px;
@@ -16,19 +36,6 @@ body {
     background: #FFFFFF;
     padding: 10px 10px 10px 10px;
 }
-
-/* Title of the resume */
-h1 {
-    font-size: 55px;
-    color: #757575;
-    text-align:center;
-    margin-bottom:15px;
-}
-/*h1:hover {
-    background-color: #757575;
-    color: #FFFFFF;
-    text-shadow: 1px 1px 1px #333;
-}*/
 
 /* Titles of categories */
 h2 {
@@ -45,11 +52,6 @@ h2:before {
     /* This is called "rulecolor" in the ConTeXt stylesheet. */
     background-color: #9CB770;
 }
-/*h2:hover {
-    background-color: #397249;
-    color: #FFFFFF;
-    text-shadow: 1px 1px 1px #333;
-}*/
 
 /* Definitions */
 dt {
@@ -88,9 +90,6 @@ a:after {
     content: url('link.png');
     display: inline-block;
     width: 14px;
-    /*margin-right:1%;
-    height: 10px;
-    background-color: #9CB770;*/
 
 /* Horizontal separators */
 hr {
@@ -100,4 +99,3 @@ hr {
 table {
     width: 100%;
 }
-</style>

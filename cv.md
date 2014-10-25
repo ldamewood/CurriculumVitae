@@ -1,5 +1,9 @@
-Liam J. Damewood
-================
+---
+title: "Curriculum Vitae"
+author: "Liam J. Damewood"
+date: October 25, 2014
+css: style_chmduquesne.css
+...
 
 > ljdamewood at ucdavis dot edu
 
