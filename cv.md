@@ -3,6 +3,7 @@ title: "Curriculum Vitae"
 author: "Liam J. Damewood"
 date: October 25, 2014
 css: style_chmduquesne.css
+header-includes: <base target="_blank">
 ...
 
 > ljdamewood at ucdavis dot edu
@@ -83,23 +84,21 @@ Monographs
 Publications in refereed journals
 ---------------------------------
 
-2015
-:   **Magnetic properties and stability of the half-Heusler alloys LiMnZ (Z=N, P, Si)**
+2014
+:   [**Spintronic properties and stability of the half-Heusler alloys LiMnZ (Z=N, P, Si)**](http://arxiv.org/abs/1301.6367)
     L. Damewood, B. Busemeyer, M. Shaughnessy, C. Y. Fong, L. H. Yang and C. Felser.
     (in preparation)
 
-2014
-:   **Spintronic properties of Li$_{1.5}$Mn$_{0.5}$Z (Z=As, Sb) compounds in the Cu$_2$Sb structure**
+:   [**Spintronic properties of Li~1.5~Mn~0.5~Z (Z=As, Sb) compounds in the Cu~2~Sb structure**](http://www.sciencedirect.com/science/article/pii/S0304885314010385)
     L. Damewood, C. Y. Fong, B. M. Klein, L. H. Yang and C. Felser.
     Journal of Magnetism and Magnetic Materials.
-    (accepted)
     
 :   [**Structural and electronic properties of half-Heusler alloys PtXBi (with X=Mn, Fe, Co and Ni) calculated from first principles**](http://www.sciencedirect.com/science/article/pii/S0304885314009792)
     W. Huang, X. Wang, X. Chen, W. Lu, L. Damewood and C. Y. Fong, 
     Journal of Magnetism and Magnetic Materials.
 
 2013
-:   [**Electronic and magnetic properties of Li$_{1.5}$Mn$_{0.5}$As alloys in the Cu2Sb structure**](http://www.scientific.net/AMR.702.231)
+:   [**Electronic and magnetic properties of Li~1.5~Mn~0.5~As alloys in the Cu~2~Sb structure**](http://www.scientific.net/AMR.702.231)
     C. Y. Fong, L. Damewood, L. H. Yang, and C. Felser, 
     Advanced Materials Research 702, 231.
 

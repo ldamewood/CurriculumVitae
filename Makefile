@@ -15,3 +15,5 @@
 
 %.rtf: %.md
 	pandoc -s -S $< -o $@
+
+all: cv.html cv.pdf
