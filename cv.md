@@ -76,7 +76,7 @@ Monographs
 ----------
 
 2015
-:   **Recent Progress in Silicon–based Spintronic Materials**
+:   **[Recent Progress in Silicon–based Spintronic Materials](http://www.worldscientific.com/worldscibooks/10.1142/9410)**
     L. Damewood, C. Y. Fong and L. H. Yang.
     World Scientific
     (accepted)
@@ -84,18 +84,18 @@ Monographs
 Publications in refereed journals
 ---------------------------------
 
-2014
-:   [**Spintronic properties and stability of the half-Heusler alloys LiMnZ (Z=N, P, Si)**](http://arxiv.org/abs/1301.6367)
-    L. Damewood, B. Busemeyer, M. Shaughnessy, C. Y. Fong, L. H. Yang and C. Felser.
-    (in preparation)
+2015
+:   **Stabilizing and increasing the magnetic moment of half-metals: The role of Li in half-Heusler LiMnZ (Z = N, P, Si)**
+    L. Damewood, B. Busemeyer, M. Shaughnessy, C. Y. Fong, L. H. Yang and C. Felser, 
+    Phys. Rev. B (accepted).
 
 :   [**Spintronic properties of Li~1.5~Mn~0.5~Z (Z=As, Sb) compounds in the Cu~2~Sb structure**](http://www.sciencedirect.com/science/article/pii/S0304885314010385)
     L. Damewood, C. Y. Fong, B. M. Klein, L. H. Yang and C. Felser.
-    Journal of Magnetism and Magnetic Materials.
-    
+    Journal of Magnetism and Magnetic Materials 377, 411.
+
 :   [**Structural and electronic properties of half-Heusler alloys PtXBi (with X=Mn, Fe, Co and Ni) calculated from first principles**](http://www.sciencedirect.com/science/article/pii/S0304885314009792)
     W. Huang, X. Wang, X. Chen, W. Lu, L. Damewood and C. Y. Fong, 
-    Journal of Magnetism and Magnetic Materials.
+    Journal of Magnetism and Magnetic Materials 377, 252.
 
 2013
 :   [**Electronic and magnetic properties of Li~1.5~Mn~0.5~As alloys in the Cu~2~Sb structure**](http://www.scientific.net/AMR.702.231)
@@ -165,7 +165,11 @@ Awards and Memberships
 :   The Ryan Coach Memorial Fund recipient, UC Davis, CA
 
 2007-2008
-:   GAANN fellowship recipient, U. S. Department of Education
+:   Graduate Assistance in Areas of National Need (GAANN) fellowship recipient,     U. S. Department of Education
+
+2005
+:   Alliance for Graduate Education and the Professoriate (AGEP) summer     
+    research program scholarship, UC Davis, CA
 
 Related skills
 --------------
@@ -177,13 +181,14 @@ Related skills
   method, and phonon calculations.
  
 * Experienced with Matlab, LaTeX, SQL, C++, Java, Fortran, Python, and various
-  other programming and scripting languages.
+  other programming and scripting languages. Experience with numerical
+  algorithm development and machine learning algorithms.
  
 * Concurrent programming in C and Fortran using OpenMP and MPI.
 
 * Contributor to open-source projects:
-    * [abipy](https://github.com/gmatteo/abipy)
-    * [pymatgen](https://github.com/materialsproject/pymatgen)
+    * [abipy](https://github.com/gmatteo/abipy) - Open-source library for analyzing the results produced by ABINIT
+    * [pymatgen](https://github.com/materialsproject/pymatgen) - Python analysis library powering the Materials Project
 
 ----
 [https://ldamewood.github.io/cv.html](https://ldamewood.github.io/cv.html)
