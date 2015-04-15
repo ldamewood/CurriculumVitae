@@ -42,6 +42,12 @@ Experience
       properties of spintronic devices using many-body techniques and
       algorithms.
 
+2014-2015
+:   **Research Competition Participant** Kaggle.com
+
+    * Learned and utilized a avriety of machine learning techniques to solve 
+      research and industry data problems.
+
 2007-2013
 :   **Graduate Student Researcher** Department of Physics, UC Davis
 
@@ -189,6 +195,7 @@ Related skills
 * Contributor to open-source projects:
     * [abipy](https://github.com/gmatteo/abipy) - Open-source library for analyzing the results produced by ABINIT
     * [pymatgen](https://github.com/materialsproject/pymatgen) - Python analysis library powering the Materials Project
+    * [scipy](https://github.com/scipy/scipy) - Python numerical routines
 
 ----
 [https://ldamewood.github.io/cv.html](https://ldamewood.github.io/cv.html)
