@@ -83,20 +83,20 @@ Monographs
 
 2015
 :   **[Recent Progress in Silicon–based Spintronic Materials](http://www.worldscientific.com/worldscibooks/10.1142/9410)**
-    L. Damewood, C. Y. Fong and L. H. Yang.
-    World Scientific
-    (accepted)
+    L. Damewood, C. Y. Fong and L. H. Yang,
+    World Scientific, 
+    ISBN 978-981-4635-99-8.
 
 Publications in refereed journals
 ---------------------------------
 
 2015
-:   **Stabilizing and increasing the magnetic moment of half-metals: The role of Li in half-Heusler LiMnZ (Z = N, P, Si)**
+:   **[Stabilizing and increasing the magnetic moment of half-metals: The role of Li in half-Heusler LiMnZ (Z = N, P, Si)](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.91.064409)**
     L. Damewood, B. Busemeyer, M. Shaughnessy, C. Y. Fong, L. H. Yang and C. Felser, 
-    Phys. Rev. B (accepted).
+    Phys. Rev. B 91 064409.
 
 :   [**Spintronic properties of Li~1.5~Mn~0.5~Z (Z=As, Sb) compounds in the Cu~2~Sb structure**](http://www.sciencedirect.com/science/article/pii/S0304885314010385)
-    L. Damewood, C. Y. Fong, B. M. Klein, L. H. Yang and C. Felser.
+    L. Damewood, C. Y. Fong, B. M. Klein, L. H. Yang and C. Felser,
     Journal of Magnetism and Magnetic Materials 377, 411.
 
 :   [**Structural and electronic properties of half-Heusler alloys PtXBi (with X=Mn, Fe, Co and Ni) calculated from first principles**](http://www.sciencedirect.com/science/article/pii/S0304885314009792)
