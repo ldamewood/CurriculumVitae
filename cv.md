@@ -1,7 +1,7 @@
 ---
 title: "Curriculum Vitae"
 author: "Liam J. Damewood"
-date: October 25, 2014
+date: May 26, 2015
 css: style_chmduquesne.css
 header-includes: <base target="_blank">
 ...
@@ -39,8 +39,13 @@ Experience
       spintronic devices.
 
     * Development of methods for calculating thermodynamic and transport
-      properties of spintronic devices using many-body techniques and
-      algorithms.
+      properties of spintronic devices using two-time Green's functions and the
+      random-phase approximation.
+  
+    * Analysis of novel Li/Be-based half-metallic materials and their
+      feasibility in device applcations. Examination of the half-metallic
+      robustness with respect to vibrational instabilities, spin-orbit interactions,
+      substrate choice and surface reconstruction.
 
 2014-2015
 :   **Research Competition Participant** Kaggle.com
@@ -89,6 +94,11 @@ Monographs
 
 Publications in refereed journals
 ---------------------------------
+
+2015
+:   **Spin-orbit interactions in LiXY (X=Cr/Mn, Y=As/Si) half-Heusler half-metals**
+    L. Damewood, C. Y. Fong, R. L. Zhang, L. H. Yang and C. Felser, 
+    in preparation.
 
 2015
 :   **[Stabilizing and increasing the magnetic moment of half-metals: The role of Li in half-Heusler LiMnZ (Z = N, P, Si)](http://journals.aps.org/prb/abstract/10.1103/PhysRevB.91.064409)**
@@ -140,12 +150,6 @@ Other publications
 Presentations
 -------------
 
-2015
-:   **Untitled conference presentation**
-    L. Damewood, 
-    International Conference and Exhibition of Mesoscopic & Condensed Matter Physics, 
-    Boston, MA (invited)
-
 2013
 :   **Bonding, magnetic properties and stability of the half-Heusler alloys LiMnZ (Z=N, P, Si)**
     L. Damewood, B. Busemeyer, C. Y. Fong, M. Shaughnessy, 
@@ -159,7 +163,7 @@ Presentations
     Portland, OR.
 
 2009
-:   **GW study of the half-metallic band gap of zinc blende CrAs**
+:   **GW study of the half-metallic band gap of zinc-blende CrAs**
     L. Damewood, 
     CA Section of the American Physics Society, Annual Meeting of the CA Section of the APS, 
     Monterey, CA.
@@ -192,7 +196,7 @@ Related skills
  
 * Concurrent programming in C and Fortran using OpenMP and MPI.
 
-* Contributor to open-source projects:
+* Contributor to open-source material science and statistics projects:
     * [abipy](https://github.com/gmatteo/abipy) - Open-source library for analyzing the results produced by ABINIT
     * [pymatgen](https://github.com/materialsproject/pymatgen) - Python analysis library powering the Materials Project
     * [scipy](https://github.com/scipy/scipy) - Python numerical routines
